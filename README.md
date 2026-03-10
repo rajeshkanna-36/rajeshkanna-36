@@ -1,7 +1,7 @@
 # Hi 👋 I'm Rajesh Kanna S
 
 🎓 B.Tech Student  
-💻 Aspiring Software Engineer  
+💻 Aspiring Software Engineer                                                           ![Profile views](https://komarev.com/ghpvc/?username=rajeshkanna-36)
 📚 Currently learning Data Structures & System Design  
 
 ## Skills
