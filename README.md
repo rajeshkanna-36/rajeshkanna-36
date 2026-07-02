@@ -5,6 +5,9 @@
 📚 Currently learning Data Structures & System Design  
 
 ## Skills
+- Python
+- Machine Learning
+- Model Training
 - Java
 - C
 - SQL
